@@ -29,7 +29,7 @@ Using a provided dataset, I build a classification model employing a Deep Neural
 - **Practical Implementation**: See practical examples of applying these techniques using Python and TensorFlow.
 
 ## Resources
-To access the used resources such as images and the dataset, you can visit this [Google Drive](https://drive.google.com/drive/folders/1Ok9StwjRXePoQ9KjtzYskRlrwuZj5u2G).
+To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/1Ok9StwjRXePoQ9KjtzYskRlrwuZj5u2G).
 
 Sorry for the lack of references, as I forgot to include them.
 
