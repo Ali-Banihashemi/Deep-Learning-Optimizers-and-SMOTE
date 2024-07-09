@@ -23,27 +23,21 @@ Using a provided dataset, I build a classification model employing a Deep Neural
 - **Implementing SMOTE** with Adagrad and RMSprop optimizers and comparing the results.
 - **Plotting the loss and accuracy** for both training and validation phases.
 
-## Instructions for Running the Code
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Deep-Learning-Optimizers-SMOTE.git
-    cd Deep-Learning-Optimizers-SMOTE
-    ```
-2. Open the provided Jupyter notebook or Google Colab link in your browser.
-3. Follow the instructions in the notebook to run each section of the project.
-
 ## Key Takeaways
 - **Understanding Optimizers**: Gain insights into how different optimizers function and their impact on training neural networks.
 - **SMOTE for Imbalanced Data**: Learn how to handle imbalanced datasets effectively using the SMOTE algorithm.
 - **Practical Implementation**: See practical examples of applying these techniques using Python and TensorFlow.
 
+## Resources
+To access the used resources such as images and the dataset, you can visit this [Google Drive](https://drive.google.com/drive/folders/1Ok9StwjRXePoQ9KjtzYskRlrwuZj5u2G).
+
+Sorry for the lack of references, as I forgot to include them.
+
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Email](mailto:youremail@example.com) for any questions or collaborations.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alibanihashemi02/) or [Email](mailto:alibanihashemi@outlook.com) for any questions or collaborations.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to the resources and communities that have supported my learning and growth in the field of AI and deep learning.
-
-Happy Learning!
