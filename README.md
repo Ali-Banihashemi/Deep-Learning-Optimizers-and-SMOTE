@@ -38,6 +38,3 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alibanih
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to the resources and communities that have supported my learning and growth in the field of AI and deep learning.
